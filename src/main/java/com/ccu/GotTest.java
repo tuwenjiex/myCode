@@ -11,5 +11,7 @@ public class GotTest {
 
         System.out.println("第三次提交代码！");
         System.out.println("分支提交代码");
+
+        System.out.println("slave1测试冲突");
     }
 }

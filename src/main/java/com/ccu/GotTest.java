@@ -14,5 +14,7 @@ public class GotTest {
         System.out.println("master测试冲突");
 
         System.out.println("slave1测试冲突");
+
+        System.out.println("推送代码到GitHub");
     }
 }

@@ -16,5 +16,7 @@ public class GotTest {
         System.out.println("slave1测试冲突");
 
         System.out.println("推送代码到GitHub");
+        
+        System.out.println("从GitHub拉取代码到本地");
     }
 }
